@@ -3,7 +3,7 @@ window.TENNIS_CONFIG = {
   "brand": "Tenis al máximo",
   "price": 12.9,
   "currency": "EUR",
-  "checkoutUrl": "https://pay.hotmart.com/O108175625K",
+  "checkoutUrl": "https://pay.hotmart.com/O108175625K?checkoutMode=10",
   "checkoutPlatform": "Hotmart",
   "supportEmail": "",
   "heroVideoUrl": "assets/video/guia-en-video.mp4",
