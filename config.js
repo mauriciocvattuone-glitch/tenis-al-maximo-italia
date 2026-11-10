@@ -9,7 +9,7 @@ window.TENNIS_CONFIG = {
   "heroVideoUrl": "assets/video/guia-en-video.mp4",
   "privacyUrl": "",
   "termsUrl": "",
-  "deliveryText": "Dopo la conferma del pagamento riceverai via email il link per accedere ai materiali o scaricarli. Il canale e i tempi definitivi sono ancora da confermare.",
+  "deliveryText": "Dopo la conferma del pagamento, riceverai un’email da Hotmart all’indirizzo indicato durante l’acquisto, con le istruzioni per accedere alla guida e ai 3 bonus e scaricare i PDF.",
   "guarantee": {
     "enabled": true,
     "days": 7,
